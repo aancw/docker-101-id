@@ -10,6 +10,7 @@ Docker adalah sebuah alat yang didesain untuk memudahkan dalam `create`, `deploy
 Setelah kita mengetahui tentang Docker, mari kita bandingkan antara Docker dan Virtual Machine. Berikut adalah gambar perbandingan:
 
 ![Perbandingan Docker dan Virtual Machine](vm-vs-docker.png)
+
 Ilustrasi gambar tersebut menerangkan tentang keuntungan bila kita memakai Docker. Kita tidak perlu harus menyiapkan sistem operasi lengkap disaat kita membutuhkannya. Yang dimana ini akan memperkecil `resource` yang dibutuhkan. Karena, Docker hanya membutuhkan `kernel` Linux saja pada `Host OS` yang sedang berjalan. Anda bisa mempunyai hampir semua sistem operasi Linux yang bisa dijalankan pada `Host OS`. Pada gambar tersebut juga menerangkan bahwa bila misal anda ingin menjalankan aplikasi pada sistem operasi CentOS( sebelah kiri) dan Debian ( sebelah kanan ), anda tidak perlu melakukan instalasi sistem operasi CentOS dan Debian. Cukup dengan Docker bisa teratasi.
 
 ## Docker untuk siapa?
