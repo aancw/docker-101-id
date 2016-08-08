@@ -1,4 +1,4 @@
-# Summary
+# Daftar Isi
 
-* [Perkenalan Docker](1. perkenalan_docker.md)
+* [Perkenalan Docker](Perkenalan-Docker.md)
 
