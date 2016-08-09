@@ -1,4 +1,4 @@
 # Daftar Isi
 
-* [Perkenalan Docker](Perkenalan-Docker.md)
-
+* [Perkenalan Docker](/contents/Perkenalan-Docker.md)
+* [Sekilas Tentang Dockerfile](/contents/Dockerfile.md)
